@@ -81,33 +81,34 @@ function getSocialIcon(platform) {
 async function loadBlogs() {
     try {
         const blogsContainer = document.getElementById('blogs-container');
-        const response = await fetch('blogs/');
+        const response = await fetch('blogs/index.html');
         const text = await response.text();
+        
+        // Extract the JSON data from the div
         const parser = new DOMParser();
         const doc = parser.parseFromString(text, 'text/html');
-        const links = Array.from(doc.querySelectorAll('a'))
-            .filter(a => a.href.endsWith('.pdf'))
-            .map(a => a.href);
+        const blogListDiv = doc.getElementById('blog-list');
+        const blogs = JSON.parse(blogListDiv.textContent);
 
-        for (const link of links) {
+        blogs.forEach(blog => {
             const blogCard = document.createElement('div');
             blogCard.className = 'blog-card fade-in';
             
-            // Extract blog title from filename
-            const title = link.split('/').pop().replace('.pdf', '').replace(/-/g, ' ');
-            
             blogCard.innerHTML = `
                 <div class="blog-content">
-                    <h3>${title}</h3>
+                    <h3>${blog.title}</h3>
+                    <p class="blog-date">${blog.date}</p>
                     <p>Click to read the full blog post</p>
-                    <a href="${link}" class="btn primary" target="_blank">Read More</a>
+                    <a href="blogs/${blog.file}" class="btn primary" target="_blank">Read More</a>
                 </div>
             `;
             
             blogsContainer.appendChild(blogCard);
-        }
+        });
     } catch (error) {
         console.error('Error loading blogs:', error);
+        const blogsContainer = document.getElementById('blogs-container');
+        blogsContainer.innerHTML = '<p class="error-message">Failed to load blog posts. Please try again later.</p>';
     }
 }
 
