@@ -71,7 +71,6 @@ function getSocialIcon(platform) {
         'microsoft': 'fab fa-microsoft',
         'amazon': 'fab fa-amazon',
         'apple': 'fab fa-apple',
-        'google': 'fab fa-google',
         
     };
     return icons[platform.toLowerCase()] || 'fas fa-link';
