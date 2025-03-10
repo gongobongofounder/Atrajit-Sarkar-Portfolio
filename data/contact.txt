@@ -1,0 +1,5 @@
+Email: john.doe@example.com
+Phone: +1 (555) 123-4567
+Location: San Francisco, CA
+
+Feel free to reach out for collaborations, job opportunities, or just a friendly chat about technology! 

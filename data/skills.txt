@@ -1,0 +1,26 @@
+Frontend Development:
+• HTML5 & CSS3
+• JavaScript (ES6+)
+• React.js
+• Vue.js
+• Responsive Design
+
+Backend Development:
+• Node.js
+• Python
+• Java
+• SQL & NoSQL Databases
+• RESTful APIs
+
+Tools & Technologies:
+• Git & GitHub
+• Docker
+• AWS
+• CI/CD
+• Agile Methodologies
+
+Other Skills:
+• Problem Solving
+• Team Leadership
+• Technical Writing
+• Project Management 
