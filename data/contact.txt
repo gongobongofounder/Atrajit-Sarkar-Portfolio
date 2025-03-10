@@ -1,5 +1,4 @@
-Email: john.doe@example.com
-Phone: +1 (555) 123-4567
-Location: San Francisco, CA
+Email: atrajit.sarkar@gongobongo.org
+Location: Hauz Khas, IIT Delhi
 
-Feel free to reach out for collaborations, job opportunities, or just a friendly chat about technology! 
+Feel free to reach out for collaborations, job opportunities, or just a friendly chat about technology and mathematics.
