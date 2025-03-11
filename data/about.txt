@@ -1,48 +1,68 @@
-**About Me**
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        h2 {
+            color: #333;
+        }
+        a {
+            text-decoration: underline;
+            color: inherit;
+            cursor: pointer;
+            transition: transform 0.2s ease-in-out;
+        }
+        a:hover {
+            transform: scale(1.1);
+        }
+    </style>
+</head>
+<body>
 
-**Mathematical Background**
-I am Atrajit, a passionate mathematician and software developer, having completed my **MSc in Mathematics from IIT Delhi**. My primary academic interests lie in **analysis, number theory, and algebra**, and I am actively preparing for **PhD admissions in August 2025**.
+    <h2>About Me</h2>
+    
+    <h3>Mathematical Background</h3>
+    <p>I am Atrajit, a passionate mathematician and software developer, having completed my <strong>MSc in Mathematics from IIT Delhi</strong>. My primary academic interests lie in <strong>analysis, number theory, and algebra</strong>, and I am actively preparing for <strong>PhD admissions in August 2025</strong>.</p>
+    <p>I have completed a project on Morse theory under the supervision of Dr. Biplab Basak. You can find my project in first blog.</p>
 
-I have completed a project on Morse theory under the supervision of Dr. Biplab Basak. You can find my project in first blog.
+    <h3>Technical and Coding Background</h3>
+    <p>Beyond my mathematical pursuits, I have a deep passion for programming and technology. I specialize in <strong>Jetpack Compose for Android development</strong>, with hands-on experience in <strong>chat applications, GitHub-integrated content fetching, and local database management using Hilt</strong>. Additionally, I have a strong command over <strong>C++</strong>, where I teach students and explore areas like <strong>3D simulation</strong>. My programming expertise also extends to <strong>Python automation</strong>, with projects including <strong>WhatsApp auto-replies, PDF conversions, and file handling</strong>.</p>
 
+    <h3>Teaching Background</h3>
+    <ul>
+        <li>I am actively engaged in <strong>mentoring students</strong> in mobile app development, guiding them through beginner and intermediate-level projects. I also have experience in <strong>networking applications</strong>, particularly in establishing <strong>internet-based communication between app instances</strong>.</li>
+        <li>I taught BSc and MSc students the following topics in Mathematics:
+            <ul>
+                <li>Real Analysis</li>
+                <li>Modern Algebra</li>
+                <li>Linear Algebra</li>
+                <li>Topology</li>
+                <li>Functional Analysis</li>
+                <li>Measure Theory</li>
+                <li>Algebraic Topology</li>
+                <li>...and more</li>
+            </ul>
+        </li>
+    </ul>
 
-**Technical and Coding Background**
-Beyond my mathematical pursuits, I have a deep passion for programming and technology. I specialize in **Jetpack Compose for Android development**, with hands-on experience in **chat applications, GitHub-integrated content fetching, and local database management using Hilt**. Additionally, I have a strong command over **C++**, where I teach students and explore areas like **3D simulation**. My programming expertise also extends to **Python automation**, with projects including **WhatsApp auto-replies, PDF conversions, and file handling**.
+    <h3>Literature Background</h3>
+    <p>I have been once very enthusiastic about literature, poems, and stories, and I have read and written a couple of them in Bengali and English. A book <a href="https://amzn.in/d/6zU2fgt">"Silhouette Of Words"</a> is on Amazon for sale.</p>
 
-**Teaching Background**
-- I am actively engaged in **mentoring students** in mobile app development, guiding them through beginner and intermediate-level projects. I also have experience in **networking applications**, particularly in establishing **internet-based communication between app instances**.
+    <h3>Philosophy About Life and Goals</h3>
+    <p>With a forward-thinking mindset, I strive to bridge the gap between <strong>mathematical theory and real-world applications</strong> through innovative software solutions. My goal is to contribute to academia and industry by leveraging my expertise in <strong>mathematics and software engineering</strong>.</p>
+    <p>I keep learning new skills and also forgetting old ones. Never mind. The much I can learn from this world is my goal, and I love it.</p>
+    
+    <hr>
 
-- I taught BSC students and Msc students recently the following topics in Mathematics:
-1. Real Analysis
-2. Modern Algebra
-3. Linear Algebra
-4. Topology
-5. Functional Analysis
-6. Measure Theory
-7. Algebraic Topology
-and many more...(I can't remeber or maybe I did not teach other topics that much.)
+</body>
+</html>
 
-**Literature Background**
-I have been once very enthusiast about Literature and poems and stories and I read and wrote a couple of them in bengali and english. A book <a href="https://amzn.in/d/6zU2fgt"> "Silhouette Of Words" </a> is on Amazon for sale.
-
-
-**Phylosophy About Life and Goals**
-With a forward-thinking mindset, I strive to bridge the gap between **mathematical theory and real-world applications** through innovative software solutions. My goal is to contribute to academia and industry by leveraging my expertise in **mathematics and software engineering**.
-
-I keep learning newskills and also forgetting old ones. Never mind. The much I can learn from this world is my goal and I love it.
----
-
-**Skills & Expertise**
-
-✅ **Mathematics:** Analysis, Number Theory, Algebra  
-✅ **Programming Languages:** C++, Python, Ruby  
-✅ **Android Development:** Jetpack Compose, Hilt, Local Databases  
-✅ **Software Projects:** Chat Apps, Auto-reply Systems, PDF Conversions, 3D Simulations  
-✅ **Networking & Communication:** Internet-based App Connectivity  
-✅ **Teaching & Mentorship:** C++ and Mobile App Development  
-✅ **Automation:** WhatsApp Auto-replies, File Handling, Data Processing  
-
-I am always eager to explore new research opportunities, engage in collaborative projects, and take on challenges that merge **mathematics with cutting-edge technology**.
-
- 
- 
