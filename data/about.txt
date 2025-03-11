@@ -1,6 +1,48 @@
-I am a passionate Full Stack Developer with over 5 years of experience in building web applications. My journey in technology started with a curiosity about how things work on the internet, which led me to pursue a career in software development.
+**About Me**
 
-I specialize in creating responsive, user-friendly applications using modern technologies and best practices. My approach combines technical expertise with a keen eye for design and user experience.
+**Mathematical Background**
+I am Atrajit, a passionate mathematician and software developer, having completed my **MSc in Mathematics from IIT Delhi**. My primary academic interests lie in **analysis, number theory, and algebra**, and I am actively preparing for **PhD admissions in August 2025**.
 
-When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing my knowledge through technical blog posts. 
+I have completed a project on Morse theory under the supervision of Dr. Biplab Basak. You can find my project in first blog.
+
+
+**Technical and Coding Background**
+Beyond my mathematical pursuits, I have a deep passion for programming and technology. I specialize in **Jetpack Compose for Android development**, with hands-on experience in **chat applications, GitHub-integrated content fetching, and local database management using Hilt**. Additionally, I have a strong command over **C++**, where I teach students and explore areas like **3D simulation**. My programming expertise also extends to **Python automation**, with projects including **WhatsApp auto-replies, PDF conversions, and file handling**.
+
+**Teaching Background**
+- I am actively engaged in **mentoring students** in mobile app development, guiding them through beginner and intermediate-level projects. I also have experience in **networking applications**, particularly in establishing **internet-based communication between app instances**.
+
+- I taught BSC students and Msc students recently the following topics in Mathematics:
+1. Real Analysis
+2. Modern Algebra
+3. Linear Algebra
+4. Topology
+5. Functional Analysis
+6. Measure Theory
+7. Algebraic Topology
+and many more...(I can't remeber or maybe I did not teach other topics that much.)
+
+**Literature Background**
+I have been once very enthusiast about Literature and poems and stories and I read and wrote a couple of them in bengali and english. A book <a href="https://amzn.in/d/6zU2fgt"> "Silhouette Of Words" </a> is on Amazon for sale.
+
+
+**Phylosophy About Life and Goals**
+With a forward-thinking mindset, I strive to bridge the gap between **mathematical theory and real-world applications** through innovative software solutions. My goal is to contribute to academia and industry by leveraging my expertise in **mathematics and software engineering**.
+
+I keep learning newskills and also forgetting old ones. Never mind. The much I can learn from this world is my goal and I love it.
+---
+
+**Skills & Expertise**
+
+✅ **Mathematics:** Analysis, Number Theory, Algebra  
+✅ **Programming Languages:** C++, Python, Ruby  
+✅ **Android Development:** Jetpack Compose, Hilt, Local Databases  
+✅ **Software Projects:** Chat Apps, Auto-reply Systems, PDF Conversions, 3D Simulations  
+✅ **Networking & Communication:** Internet-based App Connectivity  
+✅ **Teaching & Mentorship:** C++ and Mobile App Development  
+✅ **Automation:** WhatsApp Auto-replies, File Handling, Data Processing  
+
+I am always eager to explore new research opportunities, engage in collaborative projects, and take on challenges that merge **mathematics with cutting-edge technology**.
+
+ 
  
