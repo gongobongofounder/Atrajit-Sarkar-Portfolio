@@ -1,4 +1,4 @@
-<h2>Skills & Expertise</h2>
+<h3>Skills & Expertise</h3>
     <ul>
         <li>✅<strong>Mathematics:</strong> Analysis, Number Theory, Algebra</li>
         <li>✅<strong>Programming Languages:</strong> C++, Python, Ruby</li>
