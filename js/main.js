@@ -11,12 +11,12 @@ async function loadTextContent() {
         // Load about section content
         const aboutResponse = await fetch('data/about.txt');
         const aboutContent = await aboutResponse.text();
-        document.getElementById('about-content').innerHTML = aboutContent.replace(/\n/g, '<br>');
+        document.getElementById('about-content').innerHTML = aboutContent;
 
         // Load skills content
         const skillsResponse = await fetch('data/skills.txt');
         const skillsContent = await skillsResponse.text();
-        document.getElementById('skills-content').innerHTML = skillsContent.replace(/\n/g, '<br>');
+        document.getElementById('skills-content').innerHTML = skillsContent;
 
         // Load contact details
         const contactResponse = await fetch('data/contact.txt');
